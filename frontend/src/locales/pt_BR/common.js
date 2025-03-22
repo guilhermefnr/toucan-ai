@@ -92,7 +92,7 @@ const TRANSLATIONS = {
   },
   login: {
     "multi-user": {
-      welcome: "Bem-vindo ao",
+      welcome: "Welcome to",
       "placeholder-username": "Nome de Usuário",
       "placeholder-password": "Senha",
       login: "Entrar",
@@ -115,11 +115,11 @@ const TRANSLATIONS = {
   },
   welcomeMessage: {
     part1:
-      "Bem-vindo ao AnythingLLM, AnythingLLM é uma ferramenta de IA de código aberto da Mintplex Labs que transforma qualquer coisa em um chatbot treinado que você pode consultar e conversar. AnythingLLM é um software BYOK (bring-your-own-keys | traga suas próprias chaves), portanto, não há assinatura, taxa ou cobranças para este software fora dos serviços que você deseja usar com ele.",
+      "Welcome to Toucan AI, Toucan AI é uma ferramenta de IA de código aberto da Mintplex Labs que transforma qualquer coisa em um chatbot treinado que você pode consultar e conversar. AnythingLLM é um software BYOK (bring-your-own-keys | traga suas próprias chaves), portanto, não há assinatura, taxa ou cobranças para este software fora dos serviços que você deseja usar com ele.",
     part2:
-      "AnythingLLM é a maneira mais fácil de reunir produtos de IA poderosos como OpenAi, GPT-4, LangChain, PineconeDB, ChromaDB e outros serviços em um pacote organizado sem complicações para aumentar sua produtividade em 100x.",
+      "Toucan AI é a maneira mais fácil de reunir produtos de IA poderosos como OpenAi, GPT-4, LangChain, PineconeDB, ChromaDB e outros serviços em um pacote organizado sem complicações para aumentar sua produtividade em 100x.",
     part3:
-      "AnythingLLM pode ser executado totalmente localmente em sua máquina com pouca sobrecarga que você nem perceberá que está lá! Não é necessário GPU. A instalação em nuvem e localmente também está disponível.\nO ecossistema de ferramentas de IA fica mais poderoso a cada dia. AnythingLLM facilita o uso.",
+      "Toucan AI pode ser executado totalmente localmente em sua máquina com pouca sobrecarga que você nem perceberá que está lá! Não é necessário GPU. A instalação em nuvem e localmente também está disponível.\nO ecossistema de ferramentas de IA fica mais poderoso a cada dia. AnythingLLM facilita o uso.",
     githubIssue: "Criar uma issue no GitHub",
     user1: "Como eu começo?!",
     part4:
@@ -128,7 +128,7 @@ const TRANSLATIONS = {
     user2:
       "Isso é como um Dropbox de IA ou algo assim? E quanto a conversar? Não é um chatbot?",
     part5:
-      "AnythingLLM é mais do que um Dropbox mais inteligente.\n\nAnythingLLM oferece duas maneiras de conversar com seus dados:\n\n<i>Consulta:</i> Seus chats retornarão dados ou inferências encontradas com os documentos em seu workspace ao qual tem acesso. Adicionar mais documentos ao Workspace o torna mais inteligente!\n\n<i>Conversacional:</i> Seus documentos + seu histórico de chat em andamento contribuem para o conhecimento do LLM ao mesmo tempo. Ótimo para adicionar informações em tempo real baseadas em texto ou correções e mal-entendidos que o LLM possa ter.\n\nVocê pode alternar entre qualquer modo \n<i>no meio da conversa!</i>",
+      "Toucan AI é mais do que um Dropbox mais inteligente.\n\nAnythingLLM oferece duas maneiras de conversar com seus dados:\n\n<i>Consulta:</i> Seus chats retornarão dados ou inferências encontradas com os documentos em seu workspace ao qual tem acesso. Adicionar mais documentos ao Workspace o torna mais inteligente!\n\n<i>Conversacional:</i> Seus documentos + seu histórico de chat em andamento contribuem para o conhecimento do LLM ao mesmo tempo. Ótimo para adicionar informações em tempo real baseadas em texto ou correções e mal-entendidos que o LLM possa ter.\n\nVocê pode alternar entre qualquer modo \n<i>no meio da conversa!</i>",
     user3: "Uau, isso soa incrível, deixe-me experimentar já!",
     part6: "Divirta-se!",
     starOnGitHub: "Dar estrela no GitHub",
